@@ -8,7 +8,7 @@ body {
 	height: 30px;
 	font-family: sans-serif;
 	background-image:  url('assets/backimg.jpeg');
-background-size: 500px 1100px;
+	background-size: 500px 1100px;
 }
 
 .login-box {
