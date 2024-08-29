@@ -8,13 +8,14 @@ body {
 	height: 30px;
 	font-family: sans-serif;
 	background-image:  url('assets/backimg.jpeg');
+background-size: 500px 1100px;
 }
 
 .login-box {
 	position: absolute;
 	top: 45%;
 	left: 50%;
-	width: 60%;
+	width: 58%;
 	height: 60%;
 	padding: 40px;
 	transform: translate(-50%, -50%);
