@@ -8,6 +8,7 @@ body {
     font-family: 'Ubuntu', sans-serif;
     background-image:  url('assets/BackWall1.jpeg');
     background-position: center;
+    background-size: 500px 1100px;
 }
 
 img {
