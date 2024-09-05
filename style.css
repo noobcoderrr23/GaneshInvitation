@@ -100,6 +100,7 @@ img.center {
   .balloon {
     height: 125px;
     width: 105px;
+    visibility: hidden;
     border-radius: 75% 75% 70% 70%;
     position: relative;
   }
